@@ -1,0 +1,18 @@
+{
+  "name": "ProtestaPA",
+  "version": "1.0.0",
+  "description": "ProtestaPA es una aplicación web que permite a los usuarios reportar y ver protestas en Panamá.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
